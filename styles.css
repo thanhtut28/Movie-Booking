@@ -30,8 +30,6 @@ body {
 
 .pick-moive select {
     font-family: 'Poppins', sans-serif;
-    color: white;
-    background-color: rgba(45, 45, 48, 0.87);
     width: 15rem;
     height: 1.5rem;
     border-radius: 0.2rem;
